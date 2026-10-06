@@ -1,0 +1,6 @@
+{
+  "name": "RAFI Study",
+  "description": "Offline-first, cross-platform personal AI study system with subject management, PDF textbook reader, smart notes, interactive mind maps, offline quiz engine, and Google Drive synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
